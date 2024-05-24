@@ -1,7 +1,7 @@
 # calculadoraassembly
 Assembly Calculator - FCT Unesp, Microprocessadores
 
-This project is about a calculator which its operations are realized using Assembly codes by FPU, where the expressions are processed in polish notation.
+This project is about a calculator which it operations are realized using Assembly codes by FPU, where the expressions are processed in polish notation.
 The goal of this repository is share knowledge about low level languages and understand in praticle ways how the microprocessors work to create a program with an easy understanding; in this case, a calculator.
 
 Collaborators: Daniel Servejeira and Raphael Leiva
